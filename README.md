@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Employee Management System
 
 ## 📋 Table of Contents
@@ -127,3 +128,6 @@ The frontend will run on: http://localhost:3000.
 
 
 
+=======
+# Employee-management-system
+>>>>>>> a5f65df9ac72e5e8d556027a9d7256ba299f5d5c
